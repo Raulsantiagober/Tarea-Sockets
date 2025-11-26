@@ -39,7 +39,7 @@ Python 3.x
 
 No se requieren librerías externas
 
-🛠️ Instrucciones de uso
+Instrucciones de uso
 1️ Ejecuta el servidor
 
 En una terminal:
@@ -77,6 +77,8 @@ El hilo principal de cada lado permite escribir mensajes.
 La conexión se mantiene abierta hasta que la aplicación se cierre.
 
  Estructura del proyecto
+
+ 
 <img width="268" height="85" alt="image" src="https://github.com/user-attachments/assets/5d95d875-d5a3-4959-ae88-be3ed4acd412" />
 
 Conceptos clave usados
